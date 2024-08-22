@@ -1,0 +1,59 @@
+{
+    "dashboards": [
+      {
+        "name": "CSPM Executive Dashboard",
+        "categories": [
+          {
+            "name": "Category 1",
+            "widgets": [
+              {
+                "name": "Cloud Accounts",
+                "text": "This is the Cloud Accounts widget with pie charts representing account usage and security status."
+              },
+              {
+                "name": "Cloud Risk Management",
+                "text": "This widget provides insights into cloud risk management with pie charts showing risk levels and mitigations."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CWPP Dashboard",
+        "categories": [
+          {
+            "name": "Category 2",
+            "widgets": [
+              {
+                "name": "Top 5 Name Specific Alerts",
+                "text": "Details about the top 5 name-specific alerts in the system."
+              },
+              {
+                "name": "Workload Alerts",
+                "text": "Information on current workload alerts and their status."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Registry Scan Dashboard",
+        "categories": [
+          {
+            "name": "Category 3",
+            "widgets": [
+              {
+                "name": "Image Risk Assessments",
+                "text": "Bar graph data on image risk assessments."
+              },
+              {
+                "name": "Image Security Issues",
+                "text": "Bar graph data on image security issues."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
